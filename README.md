@@ -35,4 +35,4 @@ It is a simple 'Wrapper' for Device Portal using WebView components for Windows 
 
 
 
-<img src="DPApps.png" alt="Apps Window" style="zoom: 33%;" /><img src="DPApps2.png" alt="Apps Window" style="zoom: 33%;" />
+<img src="DPApps.png" alt="Apps Window" width=50% height=50%/><img src="DPApps2.png" alt="Apps Window" width=50% height=50%/>
