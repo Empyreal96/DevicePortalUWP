@@ -18,9 +18,16 @@ It is a simple 'Wrapper' for Device Portal using WebView components for Windows 
 
 - Built with VS2019
 
+- No special requirements for 10586 and below
+
   
 
-## Current Changes
+## Requirements for 14393+
+
+- Interop Unlocked
+- Disable Windows Firewall, import this [registry file](assets/Disable_Firewall.reg) in Interop Tools (Use [this](assets/Enable_Firewall.reg) if you ever need to re-enable Firewall)
+
+# Current Changes
 
 ```
 - Inital public upload
@@ -28,4 +35,4 @@ It is a simple 'Wrapper' for Device Portal using WebView components for Windows 
 
 
 
-<img src="DPApps.png" alt="Apps Window" style="zoom: 33%;" />
+<img src="DPApps.png" alt="Apps Window" style="zoom: 33%;" /><img src="DPApps2.png" alt="Apps Window" style="zoom: 33%;" />
