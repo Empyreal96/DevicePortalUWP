@@ -30,7 +30,7 @@ It is a simple 'Wrapper' for Device Portal using WebView components for Windows 
 # Current Changes
 
 ```
-- Inital public upload
+- Added small info to About page
 ```
 
 
