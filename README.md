@@ -24,8 +24,9 @@ It is a simple 'Wrapper' for Device Portal using WebView components for Windows 
 
 ## Requirements for 14393+
 
-- Interop Unlocked
-- Disable Windows Firewall, import this [registry file](https://github.com/Empyreal96/DevicePortalUWP/raw/main/assets/Disable_Firewall.reg) in Interop Tools (Use [this](https://github.com/Empyreal96/DevicePortalUWP/raw/main/assets/Enable_Firewall.reg) if you ever need to re-enable Firewall)
+- Interop Unlocked and Disable Windows Firewall, import this [registry file](https://github.com/Empyreal96/DevicePortalUWP/raw/main/assets/Disable_Firewall.reg) in Interop Tools (Use [this](https://github.com/Empyreal96/DevicePortalUWP/raw/main/assets/Enable_Firewall.reg) if you ever need to re-enable Firewall)
+  Or
+- Enable Root Access through WPInternals
 
 # Current Changes
 
