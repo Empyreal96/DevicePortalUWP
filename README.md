@@ -1,5 +1,6 @@
-# DevicePortalUWP for Windows 10 Mobile
+# DevicePortalUWP for Windows 10 Mobile (Depricated)
 
+### This version has been Depricated by [Phone Helper](https://github.com/Empyreal96/Phone-Helper-UWP)
 
 
 ## What is it?
